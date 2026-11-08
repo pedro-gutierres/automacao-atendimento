@@ -1,0 +1,17 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Arquivos de ambiente e logs
+.env
+.env.*
+*.log
+
+# Dependências (caso venha a utilizar build tools futuramente)
+node_modules/
+dist/
+.wrangler/
